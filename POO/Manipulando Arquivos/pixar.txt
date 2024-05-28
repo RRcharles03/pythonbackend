@@ -1,0 +1,107 @@
+Pixar StoryTelling
+
+Era uma vez a Thais, mãe de gatos e enfermeira no dia-a-dia.
+Todos os dias, Thais se preocupa com a condição de seus gatinhos, sua saúde e bem estar...sempre procurando 
+os melhores produtos e cuidados para os mesmos.
+Um certo dia ao navegar na internet e procurar por melhores formas de cuidar de seus pets, assim como
+produtos e serviços, Thais se deparou com uma plataforma online de vendas , que além de variedade e preços,
+se preocupa em melhorar a experiência de compra e os cuidados dos donos para com o seu(s) pet(s).
+Hoje, realiza suas compras com mais tranquilidade e opções, além de sempre conseguir encontrar os melhores 
+produtos para seus pets e a cada dia melhorar os cuidados com seus bichinhos. 
+
+Contexto do Usuário
+
+
+A partir das personas foi criado uma primeira jornada do usuário, porém após as pesquisas qualitativas essa jornada passou 
+por uma revisão para enterdermos melhor cada passo , escolha e decisao do usuário em sua jornada.Oportunidades foram identificadas
+para melhor atender a experiência do usuário.
+ 
+
+Why (razão) - Entendendo o objetivo
+- Por que seu produto ou funcionalidade é importante?
+
+- Que problema está tentando resolver?
+
+- Que impacto esse produto fará no mundo?
+
+- Que tipo de benefícios esse produto gera?
+
+- Que oportunidades de negócio ele cria?
+
+***Para produtos existentes:
+
+- Como ele ajuda na missão da empresa?
+
+
+
+Who (quem) - Defina a audiência
+Quais são as categorias de pessoas que tem motivações significativas para utilizar o produto? Escolha apenas uma e foque nela.
+
+
+
+When and Where (onde e quando) - Entenda o contexto e as necessidades
+Liste as condições de uso do app
+
+- Quando será usado fisicamente?
+
+- Há algum gatilho para o usuário precisar do produto?
+
+- Quanto tempo o usuário tem para usar o app?
+
+- Que tipo de emoções o usuário experimenta ao usar?Liste as necessidades do usuário
+
+- Qual é a maior motivação para o usuário querer seu problema resolvido?
+
+- Como ele pode atingir esse objetivo?
+
+
+
+What (o quê) - Ideias de solução
+- Quais são AS ALTERNATIVAS de solução (pense em mais de uma)
+
+a) produto físico ou digital?
+
+b) smartphone? desktop? relógio? tv?
+
+c) feature A, B, C?
+
+
+
+What (o quê) - Priorização
+- Qual é a ideia que tem maior impacto e menor esforço de criação?
+
+- Em breve vamos construir.
+
+
+
+How - Medindo o sucesso
+- Como você pode saber que sua solução realmente funcionou e resolveu o problema do usuário?
+
+
+
+
+  Links e leituras recomendadas nessa sessão
+Leitura Obrigatória:
+
+UX Honeycomb (3 pg) http://semanticstudios.com/user_experience_design 
+Service Design 101 (5 pg) https://www.nngroup.com/articles/service-design-101/ 
+When use UX Research Methods (6pg) https://www.nngroup.com/articles/which-ux-research-methods/ 
+Formative vs Summative Evaluations (4 pg) https://www.nngroup.com/articles/formative-vs-summative-evaluations/ 
+Leitura Complementar:
+
+Design System da Atlassian https://atlassian.design/components 
+Referência de UI Mobbin https://mobbin.design/browse/ios/apps 
+Guia de Acessibilidade https://guia-wcag.com/ 
+Elementos de UX http://www.jjg.net/elements/pdf/elements.pdf 
+Investimentos em UX https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/future-of-customer-experience.html  
+CX ou UX https://www.usertesting.com/blog/cx-vs-ux 
+Discoveries in Industry https://www.nngroup.com/articles/discoveries-in-industry-revealed/ 
+PM vs UX https://www.nngroup.com/articles/pm-ux-different-views-of-responsibilities/ 
+Design thinking 101 https://www.nngroup.com/articles/design-thinking/ 
+Estudo de caso Visual Eyes https://app.visualeyes.design/reporting/project/b959a6df-ee2f-41e5-bfba-1ed530324c28 
+Diary Studies https://www.nngroup.com/articles/diary-studies/ 
+
+
+
+
+
